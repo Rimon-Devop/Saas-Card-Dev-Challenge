@@ -130,6 +130,13 @@
 }
 
 }
-@media screen {
+@media screen and (max-width:640px) {
+
+    .cards-section{
+
+        
+
+
+    }
     
 }
