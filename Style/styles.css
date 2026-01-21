@@ -74,6 +74,7 @@
     align-items: center;
     gap: 32px;
     margin: 60px 60px 0;
+    padding-bottom: 50px;
 }
 
 .cards{
@@ -136,7 +137,7 @@
 
         flex-direction: column;
         justify-content: center;
-        
+
     }
     
 }
